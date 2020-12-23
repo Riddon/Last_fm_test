@@ -1,0 +1,42 @@
+.track-search_form {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 0 10px;
+}
+
+.track-search_title {
+    margin: 50px 0;
+    font-size: 24px;
+    color: #000;
+    text-align: center;
+}
+
+.track-search_content {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.track-search_input {
+    box-sizing: border-box;
+    width: 75%;
+    height: 40px;
+    padding-left: 10px;
+    border: 2px solid #000;
+}
+
+.track-search_btn {
+    box-sizing: border-box;
+    width: 25%;
+    height: 40px;
+    padding: 0;
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    background: #000;
+    border: 2px solid #000;
+    border-left: none;
+    cursor: pointer;
+}

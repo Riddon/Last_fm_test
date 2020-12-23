@@ -1,0 +1,24 @@
+.track-info__list-item {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.track-info__list-item-title {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 18px;
+}
+
+.track-info__list-item-separate-line {
+    margin: 0 10px;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 18px;
+}
+
+.track-info__list-item-descr {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 18px;
+}
